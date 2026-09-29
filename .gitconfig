@@ -1,0 +1,7 @@
+[user]
+	name = Ibrahim Gonzalez
+	email = ibragon19@gmail.com
+[pull]
+	rebase = false
+[init]
+	defaultBranch = main
